@@ -3,7 +3,7 @@ from youtube_handle import YoutubeHandle
 class Main(object):
 
     def main(self):
-        key = 'AIzaSyCxGk0onlLpbkD_mA2IWtZFrn1BZasVHSc'
+        key = '<api-key>'
         teste = YoutubeHandle(key)
         #teste.listVideosIdByChannel('UCG-fFAxQjZgJmn0w7Brj5xQ')
         #teste.videoInfos('OTOYD8kNWGk')
